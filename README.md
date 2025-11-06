@@ -5,4 +5,4 @@ The structure of the csv file is showed in the table underneath.
 
 | Title | Author | Year | Genre |
 |-------|--------|------|----------|
-
+|The Title of the Book | The Author of the Book | The Year the Book was Published | The Genre Google Books Places These Books in |
