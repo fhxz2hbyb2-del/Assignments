@@ -1,5 +1,5 @@
 ## About this dataset 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyumetwins.com%2Fblog%2Ftop-10-cutest-electric-type-pokemon%3Fsrsltid%3DAfmBOorE9xIqJbI7KrPIwlD-agKhykU0mUc53WaWZ_tsGidIZLSOO7hx&psig=AOvVaw0Z1TDSj1IuluDkTB7RmIyV&ust=1763912271703000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNC718KLhpEDFQAAAAAdAAAAABAE)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.][(https://www.google.com/url?sa=i&url=https%3A%2F%2Fyumetwins.com%2Fblog%2Ftop-10-cutest-electric-type-pokemon%3Fsrsltid%3DAfmBOorE9xIqJbI7KrPIwlD-agKhykU0mUc53WaWZ_tsGidIZLSOO7hx&psig=AOvVaw0Z1TDSj1IuluDkTB7RmIyV&ust=1763912271703000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNC718KLhpEDFQAAAAAdAAAAABAE)](https://lh5.googleusercontent.com/proxy/8Hk_DCSj7YFmPPJxUqBfZgmgpJtGqHwkj7uzRvLn3C_QC62PAd5gmeH-fdQN-lpg1W8ObYaaEuO7Ftwzq_NGnve6C23VqRwAB0f7r6P5EqbNKYcbwv--YdalF3ALJ-h5x0JRrBcZvL0TN-euXDaHbW__bWiv7w0c_o26a9d_8dNkD5uyCCh9g5Hjf-ylWYDqjkXzwmM) 
 
 This dataset was collected programmatically from [PokéAPI](https://pokeapi.co), which provides public REST access to Pokémon game data.
 It contains the following: 
