@@ -1,6 +1,7 @@
 ## About this dataset 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-pdnhu&psig=AOvVaw0Kfw0BSudyeRlEgSoTX8fY&ust=1763910916658000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCJubCGhpEDFQAAAAAdAAAAABBP<img width="791" height="1011" alt="image" src="https://github.com/user-attachments/assets/6b1f9bc0-9dff-40d0-b599-fe20386e08d0" />
+![]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-pdnhu&psig=AOvVaw0Kfw0BSudyeRlEgSoTX8fY&ust=1763910916658000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCJubCGhpEDFQAAAAAdAAAAABBP<img width="791" height="1011" alt="image" src="https://github.com/user-attachments/assets/6b1f9bc0-9dff-40d0-b599-fe20386e08d0" />
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyumetwins.com%2Fblog%2Ftop-10-cutest-electric-type-pokemon%3Fsrsltid%3DAfmBOorE9xIqJbI7KrPIwlD-agKhykU0mUc53WaWZ_tsGidIZLSOO7hx&psig=AOvVaw0Z1TDSj1IuluDkTB7RmIyV&ust=1763912271703000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNC718KLhpEDFQAAAAAdAAAAABAE)<img width="640" height="591" alt="image" src="https://github.com/user-attachments/assets/91ff8371-65fe-4f14-b4d0-fd1af8e043b4" />
 ) 
 
 
