@@ -1,1 +1,9 @@
+For this Assignment, I used the online 'bookstore' Books to Scrape. The robots.txt is empty, meaning that scraping is permitted. 
+They also state this in their title: Books to Scrape, We love being scraped!
 
+
+
+
+
+
+http://books.toscrape.com 
