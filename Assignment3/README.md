@@ -5,7 +5,6 @@ CSV File containing:
 
 | Content (image URL) | Metadata (title of the book) |
 |--------------------|-----------------|
-|The final corpus containing image URLs + book titles|Jupyter Notebook with code, explanation and results|
 
 ## **Cleaning Process**
 Some book titles contained encoding issues (e.g. â instead of ').
