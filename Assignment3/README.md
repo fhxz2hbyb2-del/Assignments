@@ -16,7 +16,7 @@ Cleaning snippet used in code:
 `title = title.encode('latin1', 'replace').decode('utf-8', 'replace')`\
 `title = re.sub(r'[^\x00-\x7F]+', "'", title)`
 
-URL to the book cover image	Book title
-This results in a dataset that can be used for text/image analysis tasks such as rating comparison, book cover classification, or metadata extraction.
-
+The [robots.txt (http://books.toscrape.com/index.html/robots.txt)] is empty, meaning that scraping is permitted.
+They also state the following in their title:
+Books to Scrape, We love being scraped!
 http://books.toscrape.com
