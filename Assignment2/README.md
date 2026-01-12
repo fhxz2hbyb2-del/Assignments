@@ -14,7 +14,7 @@ It contains the following:
 **Tokens** - The cleaned text seperated per word.\
 **Lemmas** - The tokenized text reduced to their 'roots', their dictionary form.\
 **POS** - Parts of Speech of all the tokens (the grammatical category the words belong to).\
-**Proper_nouns** - unique persons, places, or things within the descriptions of the Pokémon.\ 
+**Proper_nouns** - unique persons, places, or things within the descriptions of the Pokémon. 
 
 The corpus is part of an exercise carried out in the course Collecting Data in the masters’ program at the University of Groningen. It is intended for use in linguistic analysis and educational purposes.
 
