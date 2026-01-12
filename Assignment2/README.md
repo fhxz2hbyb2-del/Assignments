@@ -9,12 +9,14 @@ It contains the following:
 **Name** – The Pokémon’s English name.\
 **Types** – All elemental types associated with the Pokémon (e.g., “Fire”, “Water”).\
 **Document** – An English Pokédex entry retrieved from PokéAPI.\
-**Filename** – The name of the text file in the data/ folder where the description is stored.\
-**Doc** - A 'cleaned', preprocessed version of the Document (removing punctuation, normalizing whitespace and lowercasing).\
+**Filename** – The name of the text file in the data folder where the description is stored.\
 **Tokens** - The cleaned text seperated per word.\
 **Lemmas** - The tokenized text reduced to their 'roots', their dictionary form.\
-**POS** - Parts of Speech of all the tokens (the grammatical category the words belong to).\
-**Proper_nouns** - unique persons, places, or things within the descriptions of the Pokémon. 
+**POS (with explanation)** - Fine-grained parts of speech for each token, with human-readable descriptions of the grammatical role. \
+**Proper Nouns** - Tokens identified as proper nouns by SpaCy (e.g., names or capitalized terms).<a name="cite_ref-1"></a>[<sup>[*]</sup>](#cite_note-1)\
+**Named Entities** – Automatically identified entities (e.g., names, locations, biological terms) extracted using SpaCy’s NER model. <t name="cite1"></t>[<sup>['*']</sup>](#cite1)
+
+<t name="cite1"></t>[*](#cite1) Some Pokémon descriptions may not have any proper nouns or named entities because they describe fictional creatures and places, so SpaCy finds nothing to annotate. 
 
 The corpus is part of an exercise carried out in the course Collecting Data in the masters’ program at the University of Groningen. It is intended for use in linguistic analysis and educational purposes.
 
