@@ -1,9 +1,8 @@
 ## About this dataset 
 <img src="https://lh5.googleusercontent.com/proxy/8Hk_DCSj7YFmPPJxUqBfZgmgpJtGqHwkj7uzRvLn3C_QC62PAd5gmeH-fdQN-lpg1W8ObYaaEuO7Ftwzq_NGnve6C23VqRwAB0f7r6P5EqbNKYcbwv--YdalF3ALJ-h5x0JRrBcZvL0TN-euXDaHbW__bWiv7w0c_o26a9d_8dNkD5uyCCh9g5Hjf-ylWYDqjkXzwmM" width="250" height = "300" align="right">
 
-This dataset was collected programmatically from [PokéAPI](https://pokeapi.co), which provides public REST access to Pokémon game data. The dataset includes all unique base Pokémon from Generation I (Kanto) through Generation IX (Paldea), for a total of 1,025 Pokémon.
+This dataset was collected programmatically from [PokéAPI](https://pokeapi.co), which provides public REST access to Pokémon game data. The dataset includes all known base Pokémon from Generation I (Kanto) through Generation IX (Paldea), for a total of 1,025 Pokémon.
 It contains the following: 
-
 
 **ID** – The official Pokédex number.\
 **Name** – The Pokémon’s English name.\
@@ -16,9 +15,9 @@ It contains the following:
 **Proper Nouns** - Tokens identified as proper nouns by SpaCy (e.g., names or capitalized terms).<sup> * </sup>\
 **Named Entities** – Automatically identified entities (e.g., names, locations, biological terms) extracted using SpaCy’s NER model. <sup>*</sup> 
 
-$^*$ Some Pokémon descriptions may not have any proper nouns or named entities because they describe fictional creatures and places, so SpaCy finds nothing to annotate. 
+$^*$ <sup> Some Pokémon descriptions may not have any proper nouns or named entities because they describe fictional creatures and places, so SpaCy finds nothing to annotate. </sup> 
 
-The corpus is part of an exercise carried out in the course Collecting Data in the masters’ program at the University of Groningen. It is intended for use in linguistic analysis and educational purposes.
+The corpus is made during an exercise carried out for the course Collecting Data in the masters’ program at the University of Groningen. It is intended for use in linguistic analysis and educational purposes. 
 
 Each Pokémon description is also saved as a separate .txt file inside the data/ directory for ease of inspection and later processing. The dataset was created automatically by a Python script that queried the PokéAPI for each Pokémon and exported the results into CSV format. 
 
